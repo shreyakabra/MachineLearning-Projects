@@ -1,3 +1,5 @@
 # MachineLearning-Projects
 [**Music Genre Classification**](https://github.com/shreyakabra/MachineLearningProjects/blob/main/MusicGenreClassification.ipynb): 
 This project uses machine learning to classify music tracks into genres based on extracted audio features (e.g., MFCCs). The models (SVM, Naive Bayes, Random Forest) are trained and evaluated, achieving up to 85% accuracy. Dimensionality reduction and hyperparameter tuning are applied to optimize performance.
+
+[**Password Strength Checker**](https://github.com/shreyakabra/PasswordStrength/blob/main/PasswordStrength.ipynb): This Password Strength Checker project uses Logistic Regression to classify passwords into **Weak**, **Medium**, or **Strong** categories. Trained on a labeled dataset, the model vectorizes passwords using TF-IDF and achieves an accuracy of over **81.09%** on the test set. The tool provides real-time predictions for user-entered passwords, helping assess password strength. A confusion matrix is used for performance evaluation, ensuring reliable classification. The project leverages Python, Scikit-learn, and Seaborn for model training, evaluation, and visualization.
